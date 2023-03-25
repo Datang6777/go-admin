@@ -265,8 +265,6 @@ The `go-admin` project has always been developed in the GoLand integrated develo
 
 > If you think this project helped you, you can buy a glass of juice for the author to show encouragement :tropical_drink:
 
-<img class="no-margin" src="https://raw.githubusercontent.com/wenjianzhang/image/master/img/pay.png"  height="200px" >
-
 ## 🤝 Link
 [Go developer growth roadmap](http://www.golangroadmap.com/)
 
